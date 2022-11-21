@@ -7,3 +7,4 @@ Vernon | Quality Assurance | Test Cases for component and above level tests
 Lincoln | Quality Assurance | Test Cases for component and above level tests
 Balqis | Developer | Development and more development
 
+Please refer to teams for functional test cases
